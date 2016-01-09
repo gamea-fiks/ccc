@@ -9,6 +9,6 @@ import java.lang.annotation.Annotation;
 public interface SuppressLint
     extends Annotation
 {
-
+//あいう
     public abstract String[] value();
 }
